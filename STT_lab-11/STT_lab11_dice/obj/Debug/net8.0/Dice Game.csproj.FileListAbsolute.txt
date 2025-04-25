@@ -1,0 +1,15 @@
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\bin\Debug\net8.0\Dice Game.exe
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\bin\Debug\net8.0\Dice Game.deps.json
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\bin\Debug\net8.0\Dice Game.runtimeconfig.json
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\bin\Debug\net8.0\Dice Game.dll
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\bin\Debug\net8.0\Dice Game.pdb
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.AssemblyInfo.cs
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.sourcelink.json
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.dll
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\refint\Dice Game.dll
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.pdb
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\Dice Game.genruntimeconfig.cache
+C:\Users\Sneha Gautam\Downloads\STT_lab11_dice\obj\Debug\net8.0\ref\Dice Game.dll

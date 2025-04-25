@@ -1,0 +1,15 @@
+C:\Users\Sneha Gautam\source\repos\STT_lab12\bin\Debug\net8.0\STT_lab12.exe
+C:\Users\Sneha Gautam\source\repos\STT_lab12\bin\Debug\net8.0\STT_lab12.deps.json
+C:\Users\Sneha Gautam\source\repos\STT_lab12\bin\Debug\net8.0\STT_lab12.runtimeconfig.json
+C:\Users\Sneha Gautam\source\repos\STT_lab12\bin\Debug\net8.0\STT_lab12.dll
+C:\Users\Sneha Gautam\source\repos\STT_lab12\bin\Debug\net8.0\STT_lab12.pdb
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.AssemblyInfoInputs.cache
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.AssemblyInfo.cs
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.csproj.CoreCompileInputs.cache
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.sourcelink.json
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.dll
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\refint\STT_lab12.dll
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.pdb
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\STT_lab12.genruntimeconfig.cache
+C:\Users\Sneha Gautam\source\repos\STT_lab12\obj\Debug\net8.0\ref\STT_lab12.dll
